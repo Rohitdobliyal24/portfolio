@@ -37,10 +37,10 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className="text-[#915eff]">Yarin</span>
+            Hi, I'm <span className="text-[#915eff]">Rohit</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop full stack applications, mainly
+            I develop frontend applications, mainly
             <br className="sm:block hidden" /> in React.
           </p>
         </div>

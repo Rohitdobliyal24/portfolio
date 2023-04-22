@@ -1,11 +1,11 @@
 {
-  "name": "laniado",
+  "name": "rohit",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "start": "vite preview",
-    "dev": "vite --host",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },

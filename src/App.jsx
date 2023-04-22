@@ -17,7 +17,7 @@ const App = () => {
         Sorry &#128549;, this browser is not supported, please use a browser
         that support or update your browser.
         <hr />
-        Thanks, Yarin Laniado.
+        Thanks, Rohit Dobliyal.
       </p>
     );
   return (

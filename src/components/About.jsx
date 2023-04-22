@@ -45,18 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Practical software engineer and a full stack developer who
-        specializes in using the MERN (MongoDB, Express, React, Node.js) stack
-        to build web applications. I have a strong background in programming and
-        am skilled in both front-end and back-end development, allowing me to
-        create end-to-end solutions. I am particularly proficient in using React
-        to develop responsive and interactive user interfaces, and I have
-        experience working with various libraries and tools ,that you can see
-        down below, to optimize web application performance. As a full stack
-        developer, I am well-versed in developing and integrating APIs, managing
-        databases, and deploying applications to production environments. My
-        expertise in the MERN stack makes me a valuable asset for building
-        modern web applications that require both speed and scalability.
+        Hello there, I'm Rohit, a Learner and a Web developer. I'm currently studying Computer Science & Engineering at KIET group of Institutions and I have a keen interest in web development. I have learned how to use HTML, CSS, JavaScript and React to create interactive websites. I'm also proficient in java and I enjoy solving coding challenges on various platforms. I'm always open to new opportunities and experiences in web development and beyond. You can view my portfolio here or contact me here.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (

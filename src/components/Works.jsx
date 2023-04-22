@@ -6,7 +6,6 @@ import { github, live } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
-
 const ProjectCard = ({
   name,
   description,
