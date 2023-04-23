@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Hello there, I'm Rohit, a Learner and a Web developer. I'm currently studying Computer Science & Engineering at KIET group of Institutions and I have a keen interest in web development. I have learned how to use HTML, CSS, JavaScript and React to create interactive websites. I'm also proficient in java and I enjoy solving coding challenges on various platforms. I'm always open to new opportunities and experiences in web development and beyond. You can view my portfolio here or contact me here.
+        Hello there, I'm Rohit, a Learner and a Web developer. I'm currently studying Information Technology at KIET group of Institutions and I have a keen interest in web development. I have learned how to use HTML, CSS, JavaScript and React to create interactive websites. I'm also proficient in java and I enjoy solving coding challenges on various platforms. I'm always open to new opportunities and experiences in web development and beyond. You can view my portfolio here or contact me here.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
